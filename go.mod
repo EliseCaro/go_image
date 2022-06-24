@@ -1,3 +1,3 @@
-module github.com/EliseCaro/go_image
+module github.com/EliseCaro/goimage
 
 go 1.15

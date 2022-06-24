@@ -6,7 +6,7 @@ package graphics
 
 import (
 	"errors"
-	"github.com/EliseCaro/go_image/graphics/interp"
+	"github.com/EliseCaro/goimage/graphics/interp"
 	"image"
 	"image/draw"
 )
