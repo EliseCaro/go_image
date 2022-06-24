@@ -5,8 +5,8 @@
 package graphics
 
 import (
-	"github.com/hunterhug/go_image/graphics/interp"
 	"errors"
+	"github.com/EliseCaro/go_image/graphics/interp"
 	"image"
 	"image/draw"
 )

@@ -16,7 +16,7 @@
 ### 首先下载
 
 ```
-go get -v -u github.com/hunterhug/go_image
+go get -v -u github.com/EliseCaro/go_image
 ```
 
 ### 主要函数

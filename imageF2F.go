@@ -3,7 +3,7 @@ package go_image
 import (
 	"bytes"
 	//"errors"
-	"github.com/hunterhug/go_image/graphics"
+	"github.com/EliseCaro/go_image/graphics"
 	"image"
 	"image/jpeg"
 	"image/png"
