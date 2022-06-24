@@ -6,7 +6,7 @@ package graphics
 
 import (
 	"bytes"
-	"github.com/EliseCaro/goimage/graphics/graphicstest"
+	"github.com/EliseCaro/go_image/graphics/graphicstest"
 	"image"
 	"image/color"
 	"testing"

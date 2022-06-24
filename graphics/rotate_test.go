@@ -5,7 +5,7 @@
 package graphics
 
 import (
-	"github.com/EliseCaro/goimage/graphics/graphicstest"
+	"github.com/EliseCaro/go_image/graphics/graphicstest"
 	"image"
 	"math"
 	"testing"

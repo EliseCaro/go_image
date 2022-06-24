@@ -16,7 +16,7 @@
 ### 首先下载
 
 ```
-go get -v -u github.com/EliseCaro/goimage
+go get -v -u github.com/EliseCaro/go_image
 ```
 
 ### 主要函数
@@ -62,7 +62,7 @@ func ChangeImageName(oldname string, newname string, force bool) (err error)
 ### example_test.go
 
 ```
-package goimage
+package go_image
 
 import (
 	"fmt"
@@ -131,7 +131,7 @@ func TestImage(t *testing.T) {
 
 ```
 === RUN   TestImage
-本文件文件夹位置:E:\gocode\src\github.com\hunterhug\goimage
+本文件文件夹位置:E:\gocode\src\github.com\hunterhug\go_image
 生成按宽度缩放图：./testdata/gopher500.jpg
 生成按宽度高度缩放图:./testdata/gopher500_800.png
 真正的文件名:./testdata/gopher500.jpg->./testdata/gopher500.png

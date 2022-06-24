@@ -1,9 +1,9 @@
-package goimage
+package go_image
 
 import (
 	"bytes"
 	//"errors"
-	"github.com/EliseCaro/goimage/graphics"
+	"github.com/EliseCaro/go_image/graphics"
 	"image"
 	"image/jpeg"
 	"image/png"

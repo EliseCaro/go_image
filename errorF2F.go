@@ -1,4 +1,4 @@
-package goimage
+package go_image
 
 import "errors"
 

@@ -6,7 +6,7 @@ package graphics
 
 import (
 	"errors"
-	"github.com/EliseCaro/goimage/graphics/convolve"
+	"github.com/EliseCaro/go_image/graphics/convolve"
 	"image"
 	"image/draw"
 	"math"
